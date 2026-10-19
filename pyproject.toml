@@ -6,6 +6,7 @@ readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.11"
+authors = [{ name = "Abdulrahman Yunis" }]
 keywords = ["education", "rag", "citations", "tutoring", "grounding"]
 classifiers = [
     "Development Status :: 3 - Alpha",
